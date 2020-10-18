@@ -1,6 +1,6 @@
-#invlude<studio. H>
-Good main()
+#include<studio.h>
+void main()
 {
-printf("hello world" (;
+printf("hello world");
 getch();
 }
